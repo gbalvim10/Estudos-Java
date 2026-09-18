@@ -25,10 +25,11 @@ Os projetos estão organizados de acordo com os conteúdos estudados.
 
 ```text
 Estudos-Java/
-├── JavaBasico/
-│   └── Exercícios e estudos dos fundamentos de Java
-│
-├── JavaPoo/
-│   └── Exercícios e estudos de Programação Orientada a Objetos
+├── src/
+│   ├── JavaBasico/
+│   │   └── Exercícios e estudos dos fundamentos de Java
+│   │
+│   └── JavaPoo/
+│       └── Exercícios e estudos de Programação Orientada a Objetos
 │
 └── .gitignore
