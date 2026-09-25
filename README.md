@@ -59,7 +59,7 @@ Aqui estão exercícios, testes, desafios e pequenos projetos desenvolvidos dura
 Os estudos estão separados por etapa de aprendizado:
 
 ```text
-Estudos-Java/
+estudos-java/
 ├── src/
 │   ├── JavaBasico/
 │   │   └── Exercícios e estudos dos fundamentos de Java
